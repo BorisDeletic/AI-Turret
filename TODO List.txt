@@ -1,0 +1,7 @@
+Develop code for controlling servos based on coordinates from object detector AI
+Get object detector working again, and re train on balloons - Install Linux
+
+Finish designing skewer firing mechanism.
+	Figure out pushing mechanism.
+	Design proper mounts for servos.
+
